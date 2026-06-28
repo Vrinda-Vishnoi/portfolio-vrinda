@@ -10,8 +10,8 @@ export const profile = {
   tagline: "Building scalable backend systems and dynamic full-stack applications.",
   location: "Kanpur, India",
   // Path to your photo in /public (e.g. "/profile.jpg"). Empty = sketch placeholder.
-  photo: "",
-  photoCaption: "[Placeholder: Please provide a 400x400 to 800x800 image]",
+  photo: "/profile.jpg",
+  photoCaption: "Vrinda Vishnoi",
   email: "vrindavishnoi2003@gmail.com",
   phone: "+91-9650323983",
   socials: {
